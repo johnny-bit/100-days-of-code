@@ -10,3 +10,8 @@ Rebased https://github.com/darktable-org/darktable/pull/5520 , tried to come up 
 ### R1D2
 
 Worked on https://github.com/darktable-org/darktable/pull/5124 for little over an hour and I think I'm defeated. I haven't found a way to show little window on closing.
+
+### R1D3
+
+Worked on https://github.com/darktable-org/darktable/pull/5124 - due to unforseen issues and complexity it seems that hiding main window early is the best way for now. For splashscreen opened up https://github.com/darktable-org/darktable/issues/5782
+After some perl fun created PR https://github.com/darktable-org/darktable/pull/5786
