@@ -15,3 +15,7 @@ Worked on https://github.com/darktable-org/darktable/pull/5124 for little over a
 
 Worked on https://github.com/darktable-org/darktable/pull/5124 - due to unforseen issues and complexity it seems that hiding main window early is the best way for now. For splashscreen opened up https://github.com/darktable-org/darktable/issues/5782
 After some perl fun created PR https://github.com/darktable-org/darktable/pull/5786
+
+### R1D4
+
+Rebased https://github.com/darktable-org/darktable/pull/4360 and changed "user modified" icon to pen. Need help with UI/UX side of things.
