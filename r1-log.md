@@ -19,3 +19,10 @@ After some perl fun created PR https://github.com/darktable-org/darktable/pull/5
 ### R1D4
 
 Rebased https://github.com/darktable-org/darktable/pull/4360 and changed "user modified" icon to pen. Need help with UI/UX side of things.
+
+### R1D5
+
+Work on signal tracing for darktable - https://github.com/darktable-org/darktable/pull/5433 heavy stuff...
+Updated https://github.com/darktable-org/darktable/pull/5520
+Worked on fixover of show_icons tool - https://github.com/darktable-org/darktable/pull/5793 because some comments were missed
+Learned a lot about GObject signals... still a lot of learning to do.
