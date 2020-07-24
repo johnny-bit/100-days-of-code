@@ -26,3 +26,7 @@ Work on signal tracing for darktable - https://github.com/darktable-org/darktabl
 Updated https://github.com/darktable-org/darktable/pull/5520
 Worked on fixover of show_icons tool - https://github.com/darktable-org/darktable/pull/5793 because some comments were missed
 Learned a lot about GObject signals... still a lot of learning to do.
+
+### R1D6
+
+Learning about GObject signals, hardly any coding today
