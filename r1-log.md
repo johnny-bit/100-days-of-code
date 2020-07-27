@@ -30,3 +30,11 @@ Learned a lot about GObject signals... still a lot of learning to do.
 ### R1D6
 
 Learning about GObject signals, hardly any coding today
+
+### R1D7
+
+Learning GObject signals day2, I've learned about variadic macros!
+
+### R1D8
+
+Another day of silly macros - I think there's no way to get sensible data carried transparently with signals without intense code change :/
