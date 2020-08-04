@@ -38,3 +38,15 @@ Learning GObject signals day2, I've learned about variadic macros!
 ### R1D8
 
 Another day of silly macros - I think there's no way to get sensible data carried transparently with signals without intense code change :/
+
+### R1D9
+
+Interesting - GObject signals are connected to signal with callback + user_data, but disconnected only by callback + user_data. Which means that if you have the same callback + user_data for several signals it's enough to use 1 disconnect and it will disconnect from all. Cool!
+
+### R1D10
+
+Rebased signal work on current darktable master. Proably needs some work.
+
+==
+
+Failed ;(
